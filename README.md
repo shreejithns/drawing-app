@@ -2,6 +2,8 @@
 ## Overview
 This simple drawing app is created using HTML, CSS, and JavaScript. It allows users to unleash their creativity by drawing on the canvas. The app is lightweight, easy to use, and can be integrated into any web project.
 
+##Live Demo : https://shreejithns.github.io/drawing-app/
+
 ## Features
 
 1.Canvas Drawing: Users can draw freely on the canvas using the mouse or touch input.
