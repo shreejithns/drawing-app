@@ -8,11 +8,11 @@ This simple drawing app is created using HTML, CSS, and JavaScript. It allows us
 
 2.Color Palette: Choose from a variety of colors to make your drawings vibrant.
 
-3. Brush Size: Customize the brush size to control the thickness of your strokes.
+3.Brush Size: Customize the brush size to control the thickness of your strokes.
    
 4.Clear Canvas: Clear the canvas with a single click to start fresh.
 
-5. Responsive Design: The app is designed to work seamlessly on various devices and screen sizes.
+5.Responsive Design: The app is designed to work seamlessly on various devices and screen sizes.
    
 ## Getting Started
 To use the drawing app, follow these simple steps:
