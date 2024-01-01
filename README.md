@@ -3,11 +3,11 @@
 This simple drawing app is created using HTML, CSS, and JavaScript. It allows users to unleash their creativity by drawing on the canvas. The app is lightweight, easy to use, and can be integrated into any web project.
 
 ## Features
-# Canvas Drawing: Users can draw freely on the canvas using the mouse or touch input.
-# Color Palette: Choose from a variety of colors to make your drawings vibrant.
-# Brush Size: Customize the brush size to control the thickness of your strokes.
-# Clear Canvas: Clear the canvas with a single click to start fresh.
-# Responsive Design: The app is designed to work seamlessly on various devices and screen sizes.
+1.Canvas Drawing: Users can draw freely on the canvas using the mouse or touch input.
+2.Color Palette: Choose from a variety of colors to make your drawings vibrant.
+3. Brush Size: Customize the brush size to control the thickness of your strokes.
+4.Clear Canvas: Clear the canvas with a single click to start fresh.
+5. Responsive Design: The app is designed to work seamlessly on various devices and screen sizes.
 ## Getting Started
 To use the drawing app, follow these simple steps:
 
