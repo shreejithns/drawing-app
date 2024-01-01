@@ -40,4 +40,8 @@ Use the mouse or touch input to start creating your masterpiece.
 index.html: The main HTML file that includes the structure of the app.
 
 
+## ScreeenShot 
+
+<img src="Draw.jpg">
+
 
